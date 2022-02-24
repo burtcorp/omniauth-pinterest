@@ -1,9 +1,9 @@
 PATH
   remote: .
   specs:
-    omniauth-pinterest (2.0.3)
+    omniauth-pinterest (2.0.4)
       omniauth (~> 1.0)
-      omniauth-oauth2 (~> 1.6.0)
+      omniauth-oauth2 (~> 1.6)
 
 GEM
   remote: http://rubygems.org/
